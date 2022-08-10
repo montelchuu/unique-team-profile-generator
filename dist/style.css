@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #618685;
+    --secondary-color: #80ced6;
+    --tertiary-color: #d5f4e6;
+    --quatinary-color: #36486b;
+}
+
+
+
+.jumbotron {
+    background-color: var(--quatinary-color);
+}
+
+.manager-card {
+    background-color: var(--primary-color);
+}
+
+.engineer-card {
+    background-color: var(--secondary-color);
+}
+
+.intern-card {
+    background-color: var(--tertiary-color);
+}
