@@ -2,7 +2,7 @@
   # unique-profile-generator
   ### license: Unlicensed [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   
-  ### Video Walkthrough
+  # Video Walkthrough
   https://drive.google.com/file/d/1gZsA4q0jHf4Fjp14N1TCfvfw7MLx6AXZ/view
 
   ### Github URL: [montelchuu](https://github.com/montelchuu/)
