@@ -12,5 +12,5 @@ test('checks if employee extends intern', () => {
 test('checks for Intern getSchool()', () => {
     const intern = new Intern('Matt', 12, 'test@test.com', 'Ball State University');
 
-    exoect(intern.getSchool()).toBe
+    expect(intern.getSchool()).toBe
 });
